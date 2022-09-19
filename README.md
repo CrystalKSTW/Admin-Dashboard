@@ -10,4 +10,4 @@ This is a final project from the odin project Intermediate html and css section.
 2. SVGs from [Material Design Icons](https://materialdesignicons.com)
 3. Avatars png from [Pngarts](pngarts.com)
 
-## Live preview at - 
+## Live preview at - https://crystalkstw.github.io/Admin-Dashboard/
